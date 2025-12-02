@@ -1,0 +1,12 @@
+{
+    "name": "SeungHyunToken",
+    "symbol": "SHT",
+    "description": "SeungHyunToken (SHT) – The official token for Solana creators and innovators.",
+    "image": "https://raw.githubusercontent.com/y-road/SHT/main/symbol_image.png",
+    "attributes": [
+      {
+        "trait_type": "Item",
+        "value": "Developer Portal"
+      }
+    ]
+}
